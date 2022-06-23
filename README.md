@@ -6,4 +6,5 @@ All folders belonging to a course can be found on his [webpage](https://deeplear
 
 ## References and Citations
 Lazyprogrammers website, repository and twitter handle can be found as follows:
+
 [Website](https://lazyprogrammer.me/)
